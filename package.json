@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/xephao/node-core#readme",
   "dependencies": {
+    "ajv": "^6.5.1",
     "archiver": "^2.1.1",
     "async": "^2.6.1",
     "aws-sdk": "^2.255.1",
@@ -27,6 +28,7 @@
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
+    "chart.js": "^2.7.2",
     "convict": "^4.3.0",
     "countryjs": "^1.8.0",
     "del": "^3.0.0",
