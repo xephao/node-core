@@ -1,0 +1,26 @@
+{
+  "name": "templateproject",
+  "version": "1.0.0",
+  "description": "My node structure app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xephao/node-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xephao/node-core/issues"
+  },
+  "homepage": "https://github.com/xephao/node-core#readme",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "express": "^4.16.3"
+  }
+}
